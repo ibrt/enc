@@ -1,2 +1,2 @@
-# enc
+# enc [![Build Status](https://travis-ci.org/ibrt/enc.svg?branch=master)](https://travis-ci.org/ibrt/enc) [![Go Report Card](https://goreportcard.com/badge/github.com/ibrt/enc)](https://goreportcard.com/report/github.com/ibrt/enc) [![Test Coverage](https://codecov.io/gh/ibrt/enc/branch/master/graph/badge.svg)](https://codecov.io/gh/ibrt/enc) [![Go Docs](https://godoc.org/github.com/ibrt/enc?status.svg)](http://godoc.org/github.com/ibrt/enc)
 Small utility library to perform symmetric AES encryption in Go.
